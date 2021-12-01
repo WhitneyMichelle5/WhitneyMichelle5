@@ -5,4 +5,4 @@
 - 📫 How to reach me: Whitney.jonesjrdev@gmail.com
 
 <h1>HELLO WORLD!!</h1>
-https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif
+
