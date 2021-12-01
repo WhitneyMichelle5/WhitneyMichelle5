@@ -5,4 +5,4 @@
 - 📫 How to reach me: Whitney.jonesjrdev@gmail.com
 
 <h1>HELLO WORLD!!</h1>
-<iframe src="https://giphy.com/embed/UcQSokPVOjz1eBX9G2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gis-women-in-science-girls-stem-UcQSokPVOjz1eBX9G2">via GIPHY</a></p>
+https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif
